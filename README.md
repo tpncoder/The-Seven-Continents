@@ -3,12 +3,19 @@ This is a project made by Tejas Protim Neog of Class - V of Sanskriti the Guruku
 <br>
 
 ## Screenshots
-<img src="">
+<img src="https://github.com/tpncoder/The-Seven-Continents/blob/main/Images/8d0LUiKOB4.jpg">
+<p align = "center">Landing Page</p>
+<img src="https://github.com/tpncoder/The-Seven-Continents/blob/main/Images/chrome_Ak3xZiFk5m.png">
+<p align = "center">Home Page</p>
+<img src="https://github.com/tpncoder/The-Seven-Continents/blob/main/Images/chrome_PGCfCzPVGS.png">
+<p align = "center">A continent</p>
+<img src="https://github.com/tpncoder/The-Seven-Continents/blob/main/Images/chrome_SOpxrhuLSK.png">
+<p align = "center">A continent content</p>
 <br>
 
 ## Languages used
-* HTML
-* CSS
+* HTML5
+* CSS3
 <br>
 
 ## Acknowledgements
