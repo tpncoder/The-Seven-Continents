@@ -13,6 +13,11 @@ This is a project made by Tejas Protim Neog of Class - V of Sanskriti the Guruku
 <p align = "center">A continent content</p>
 <br>
 
+## Features
+* Responsive scaling for smaller devices
+* Navigation Toolbar
+<br>
+
 ## Languages used
 * HTML5
 * CSS3
